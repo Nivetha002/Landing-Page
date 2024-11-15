@@ -20,7 +20,6 @@ JavaScript adds interactivity and functionality to the website. This project use
 
 # Screenshot
 
-![desktop](https://github.com/user-attachments/assets/8a612cb2-e69c-4465-b763-effb3ab09631)
 
 
 
