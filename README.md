@@ -16,7 +16,13 @@ CSS is utilized to style the website, enhancing its visual appeal and responsive
 
 ⚙️JavaScript
 
-JavaScript adds interactivity and functionality to the website. This project uses JavaScript to implement dynamic features to theme chamging.
+JavaScript adds interactivity and functionality to the website. This project uses JavaScript to implement dynamic features to theme changing.
+
+# Screenshot
+
+![desktop](https://github.com/user-attachments/assets/8a612cb2-e69c-4465-b763-effb3ab09631)
+
+
 
 
  
