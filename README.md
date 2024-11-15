@@ -20,6 +20,7 @@ JavaScript adds interactivity and functionality to the website. This project use
 
 # Screenshot
 
+![LandingPage](https://github.com/user-attachments/assets/927f932c-08e9-4715-8724-6dcbd8640bb8)
 
 
 
